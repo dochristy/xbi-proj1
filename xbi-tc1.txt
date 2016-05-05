@@ -1,5 +1,7 @@
 $ cd "C:\Users\cdorai200\XBI_GIT\xbi-pentaho"
 
+zlskdjflaksjdflkajsldfkjalskjfd;lkajsdf
+
 cdorai200@patapl-H2P0V32 /cygdrive/c/Users/cdorai200/XBI_GIT/xbi-pentaho
 $ mkdir -p docs
 
